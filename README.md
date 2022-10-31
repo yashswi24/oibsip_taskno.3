@@ -1,5 +1,7 @@
 # Temperature Converter
 
+![N|Solid](https://imgs.search.brave.com/y1qvshFV11s8_wD89h2RnnErrfm4SK5G8GtmWAXILkQ/rs:fit:1024:598:1/g:ce/aHR0cHM6Ly9uaW5l/cGxhbmV0cy5vcmcv/d3AtY29udGVudC91/cGxvYWRzLzIwMTkv/MDkvVGVtcGVyYXR1/cmUtQ29udmVyc2lv/bi0xMDI0eDU5OC5q/cGc)
+
 In this article, we will see Temperature Conversion between Celsius, Fahrenheit & Kelvin using HTML CSS & JavaScript. The Temperature is generally measured in terms of unit degree., i.e. in degree centigrade, in degree, Fahrenheit & Kelvin.
 
 Celsius is a standard unit of temperature on the Celsius scale, & is represented by the °C symbol.
@@ -27,7 +29,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Images
 
-![N|Solid](https://drive.google.com/file/d/1Lx6YZSgmb1KbQtq5w2VtXFHjgS_BO6aQ/view?usp=sharing)
+
+![N|Solid](https://imgs.search.brave.com/y1qvshFV11s8_wD89h2RnnErrfm4SK5G8GtmWAXILkQ/rs:fit:1024:598:1/g:ce/aHR0cHM6Ly9uaW5l/cGxhbmV0cy5vcmcv/d3AtY29udGVudC91/cGxvYWRzLzIwMTkv/MDkvVGVtcGVyYXR1/cmUtQ29udmVyc2lv/bi0xMDI0eDU5OC5q/cGc)
 
