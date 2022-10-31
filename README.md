@@ -29,5 +29,5 @@ Please make sure to update tests as appropriate.
 
 ## Images
 
-![N|Solid](WhatsApp Image 2022-10-14 at 3.18.28 PM.jpeg)
+![N|Solid](https://drive.google.com/file/d/1Lx6YZSgmb1KbQtq5w2VtXFHjgS_BO6aQ/view)
 
