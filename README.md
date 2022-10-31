@@ -31,5 +31,4 @@ Please make sure to update tests as appropriate.
 
 
 
-![N|Solid](https://imgs.search.brave.com/DdTSLLh2xnRndpVBE_TwXc4Bv4Z9WI9PWqmTRDXWwNI/rs:fit:584:606:1/g:ce/aHR0cDovL3d3dy5h/dXRvbWF0aW9ud2lr/aS5jb20vaW1hZ2Vz/LzYvNjgvVGVtcGVy/YXR1cmVfU2NhbGVf/Q29udmVyc2lvbnMu/anBn)
 
