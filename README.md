@@ -31,5 +31,5 @@ Please make sure to update tests as appropriate.
 
 
 
-![N|Solid](https://imgs.search.brave.com/y1qvshFV11s8_wD89h2RnnErrfm4SK5G8GtmWAXILkQ/rs:fit:1024:598:1/g:ce/aHR0cHM6Ly9uaW5l/cGxhbmV0cy5vcmcv/d3AtY29udGVudC91/cGxvYWRzLzIwMTkv/MDkvVGVtcGVyYXR1/cmUtQ29udmVyc2lv/bi0xMDI0eDU5OC5q/cGc)
+![N|Solid](https://imgs.search.brave.com/DdTSLLh2xnRndpVBE_TwXc4Bv4Z9WI9PWqmTRDXWwNI/rs:fit:584:606:1/g:ce/aHR0cDovL3d3dy5h/dXRvbWF0aW9ud2lr/aS5jb20vaW1hZ2Vz/LzYvNjgvVGVtcGVy/YXR1cmVfU2NhbGVf/Q29udmVyc2lvbnMu/anBn)
 
